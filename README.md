@@ -1,2 +1,16 @@
-# FRAMER-arxiv
-🖼️FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution
+<div>
+  <h2>[arXiv'25] 🖼️FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution</h2>
+  <p>
+    Official project page:&nbsp;
+    <a href="https://cmlab-korea.github.io/FRAMER/" target="_blank" rel="noopener noreferrer">
+      https://cmlab-korea.github.io/FRAMER/
+    </a>
+  </p>
+  <p>
+    Paper (arXiv):&nbsp;
+    <a href="https://www.arxiv.org/pdf/00" target="_blank" rel="noopener noreferrer">
+      https://www.arxiv.org/pdf/00
+    </a>
+  </p>
+  <p>Code will be updated</p>
+</div>
