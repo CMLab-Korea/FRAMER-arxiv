@@ -8,7 +8,7 @@
   </p>
   <p>
     Paper (arXiv):&nbsp;
-    <a href="https://www.arxiv.org/pdf/00" target="_blank" rel="noopener noreferrer">
+    <a href="https://arxiv.org/abs/2512.01390" target="_blank" rel="noopener noreferrer">
       https://www.arxiv.org/pdf/00
     </a>
   </p>
