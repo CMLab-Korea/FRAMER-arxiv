@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-    <img src="assets/framework.png" alt="Teaser Result" width="95%">
+    <img src="assets/teaser.png" alt="Teaser Result" width="95%">
     <p>
         👆 <b>Qualitative Comparison:</b> Our FRAMER models produce sharper edges and richer details, leading to more visually natural restoration results.
     </p>
@@ -59,7 +59,7 @@ For LF, an **Intra Contrastive Loss (IntraCL)** stabilizes globally shared struc
 FRAMER is a training-only framework that adds auxiliary loss components. It decomposes features into LF and HF bands and applies frequency-aligned contrastive losses.
 
 <div align="center">
-    <img src="assets/teaser.png" alt="Architecture" width="95%">
+    <img src="assets/framework.png" alt="Architecture" width="95%">
 </div>
 
 **Key Components:**
